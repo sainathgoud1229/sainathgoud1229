@@ -4,7 +4,6 @@
 
 ## About Me
 
-* AI Engineer in progress
 * ECE Student with Data Science Specialization
 * Passionate about solving real-world problems using AI
 * Interested in Generative AI, Machine Learning, AI Agents, and Backend AI Systems
