@@ -1,15 +1,50 @@
-# Hi, I'm Sai 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=28&duration=3200&pause=1800&center=true&width=520&lines=Hi%2C+I+am+Sainath Goud+K;Building+AI+for+social+impact;Open+to+collaboration"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3200&pause=1800&center=true&width=520&lines=ML+Engineer+%7C+Full+Stack+Developer;Take+a+look+at+my+projects+%F0%9F%98%89;Let%E2%80%99s+build+something+meaningful"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
-## About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-* ECE Student with Data Science Specialization
-* Passionate about solving real-world problems using AI
-* Interested in Generative AI, Machine Learning, AI Agents, and Backend AI Systems
-* Learning in public by building projects consistently
+# 💻 About Me
 
-### 🛠️ My Tech Stack
+# Hi, Sainath Goud
+
+**ML Engineer · Full Stack Developer · Systems Builder**
+
+I build intelligent systems that create real social impact and reduce manual processes through automation, machine learning, and scalable software.
+
+## 🚀 Current Focus
+
+- Diving deep into **Machine Learning** and **Deep Learning**
+- Building **AI powered systems** with real world deployment
+- Exploring **ML + Systems + Automation** at scale.
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sainath-goud-k-2013b8324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/></a><a href="https://github.com/sainathgoud1229"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/></a><a href="mailto:kabileshc.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42"/></a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -19,19 +54,28 @@
 | **AI, Vision & Audio** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Face Recognition](https://img.shields.io/badge/Face_Recognition-007ACC?style=for-the-badge&logo=the-algorithms&logoColor=white) ![Audio Processing](https://img.shields.io/badge/Audio_Processing-6C5CE7?style=for-the-badge&logo=soundcharts&logoColor=white) ![SDV/CTGAN](https://img.shields.io/badge/SDV%2FCTGAN-FF69B4?style=for-the-badge&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | **Data Science** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
 | **DevOps & Utilities** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Dotenv](https://img.shields.io/badge/Dotenv-ECD427?style=for-the-badge&logo=dotenv&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-yellow?style=for-the-badge&logo=pillow&logoColor=black) ![Segno QR](https://img.shields.io/badge/Segno_QR-0984E3?style=for-the-badge&logo=qr-code&logoColor=white) |
----
-
-
-## Connect With Me
-
-GitHub: https://github.com/sainathgoud1229
-
-LinkedIn: https://www.linkedin.com/in/sainath-goud-k-2013b8324
-
-Portfolio: https://sainath-28elink.netlify.app/
-
-Email: [sainathgoud223@gmail.com](mailto:sainathgoud223@gmail.com)
 
 ---
+</p>
 
-> Building AI applications one project at a time.
+## ✍️ Engineering Philosophy
+
+<p align="center">
+  
+> ### “I build intelligent systems that turn real world chaos  
+>
+> ### into meaningful, human centered impact.”
+>
+> — Sainath goud K
+Portfolio: <https://sainath-28elink.netlify.app/>
+</p>
+
+---
+
+<div align="center">
+
+> ## See you again in the next commit. 👋
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
