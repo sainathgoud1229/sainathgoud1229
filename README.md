@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=28&duration=3200&pause=1800&center=true&width=520&lines=Hi%2C+I+am+Sainath Goud+K;Building+AI+for+social+impact;Open+to+collaboration"
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=28&duration=3200&pause=1800&center=true&width=520&lines=Hi%2C+I+am+Sainath+Goud+K;Building+AI+for+social+impact;Open+to+collaboration"
       alt="Typing SVG"
     />
   </a>
@@ -22,7 +22,7 @@
 
 # 💻 About Me
 
-# Hi, Sainath Goud
+# Hi, I am Sainath Goud
 
 **ML Engineer · Full Stack Developer · Systems Builder**
 
@@ -44,7 +44,7 @@ I build intelligent systems that create real social impact and reduce manual pro
 
 ## 🧠 Tech Stack
 
-<p align="center">
+<div align="center">
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -55,20 +55,21 @@ I build intelligent systems that create real social impact and reduce manual pro
 | **Data Science** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
 | **DevOps & Utilities** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Dotenv](https://img.shields.io/badge/Dotenv-ECD427?style=for-the-badge&logo=dotenv&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-yellow?style=for-the-badge&logo=pillow&logoColor=black) ![Segno QR](https://img.shields.io/badge/Segno_QR-0984E3?style=for-the-badge&logo=qr-code&logoColor=white) |
 
+</div>
+
 ---
-</p>
 
 ## ✍️ Engineering Philosophy
 
-<p align="center">
+<div align="center">
   
 > ### “I build intelligent systems that turn real world chaos  
 >
 > ### into meaningful, human centered impact.”
 >
-> — Sainath goud K
+> — Sainath Goud K
 Portfolio: <https://sainath-28elink.netlify.app/>
-</p>
+</div>
 
 ---
 
